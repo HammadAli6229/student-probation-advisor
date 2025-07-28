@@ -1,0 +1,22 @@
+{
+    "scikit-learn_version": "1.6.1",
+    "feature_indices": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        11,
+        12,
+        13
+    ],
+    "train_test_split_ratio": 0.2,
+    "random_state": 42,
+    "model_type": "RandomForestRegressor",
+    "n_estimators": 100,
+    "mean_squared_error": 28.287194999999997,
+    "r2_score": 0.9699022564241021
+}
